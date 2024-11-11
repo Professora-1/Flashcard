@@ -5,6 +5,20 @@ body{
 }
 #container {
     display: flex;
+
+
+    .cartao {
+margin: 1rem;
+    }
+
+
+
+
+
+
+
+
+
 }
 footer {
     background-color: black;
