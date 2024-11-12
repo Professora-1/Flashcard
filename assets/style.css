@@ -6,7 +6,7 @@ body{
 #container {
     display: flex;
 
-
+}
     .cartao {
 margin: 1rem 1rem; 
 background-color: aqua;
@@ -30,7 +30,7 @@ flex-basis: calc(33%-6rem);
     border-radius: 0,6rem;
 }
 
-}
+
 footer {
     background-color: black;
     color: white;
